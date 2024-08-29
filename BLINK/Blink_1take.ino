@@ -11,7 +11,7 @@
 
 // funzione attivata quando si clicca il tasto RESET o POWER sulla scheda madre
 void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
+  // inizializza il pin digitale LED_BUILTIN come output.
   pinMode(LED_BUILTIN, OUTPUT);
 }
 

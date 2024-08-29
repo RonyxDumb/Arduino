@@ -1,4 +1,4 @@
-## Arduino
+# Arduino
 Repository dove verranno caricati tutti i test che avvengono con Arduino.
 
 ## Contributori

@@ -1,7 +1,7 @@
 # Arduino
-Repository dove verranno caricati tutti i test che avvengono con Arduino.
+Prove effetuate per studiare Arduino.
 
-## Contributori
+## Partecipanti
 Nome | Specializzazione |
 -------- | -------------- |
 Francesco Pio Pipino | Programmatore |
